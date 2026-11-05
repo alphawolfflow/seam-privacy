@@ -40,4 +40,4 @@ If this policy changes, the new version will be posted at this address with an u
 
 ## Contact
 
-Questions about privacy: **jreyes0105@gmail.com**
+Questions about privacy: **hello@simplesolutionsgr.com**
