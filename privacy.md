@@ -1,22 +1,22 @@
 # Seam Privacy Policy
 
-_Last updated: 6 November 2026_
+_Last updated: 7 November 2026_
 
 Seam is a wardrobe app that runs entirely on your phone. This page explains, in plain words, what the app does with your information.
 
 ## What Seam stores
 
 - **Your closet**: the clothes you add (name, kind, colour, warmth, price, status such as "in laundry", how often and when you wore them) and their photos.
-- **What you wore**: each outfit you log, by day, and any photo of the look you add.
+- **What you wore**: each outfit you log, by day, and any photo of you wearing it that you add.
 - **Trips**: trip names, types, destinations, dates and your packing lists.
-- **Your style**: a short summary of your style that Seam works out from your closet and from photos of you that you choose to add.
+- **Your style**: a short summary of your style that Seam works out from your closet and the outfits you log.
 - **Your settings**: weather on or off, temperature unit, the morning reminder, and whether you have Seam Plus.
 
 All of this is stored **only on your device**. Seam has no accounts, no sign-in, and no servers of its own. We cannot see your closet, your photos, or anything else in the app.
 
 ## Photos and camera
 
-Seam asks for camera or photo access only when you add a piece or a photo of a look. Photos, including photos of you, are processed **on your phone** (by Apple's Vision framework and, where available, Apple Intelligence) to cut out a garment, read its colour or recognise what you are wearing. They are saved inside the app and never uploaded anywhere.
+Seam asks for camera or photo access only when you add a piece or a photo of you in an outfit. Photos of a piece are processed **on your phone** (by Apple's Vision framework and, where available, Apple Intelligence) to cut it out and read its colour and type. Photos of you are kept with the outfit you logged and are not analysed. All photos are saved inside the app and never uploaded anywhere.
 
 ## The stylist
 
