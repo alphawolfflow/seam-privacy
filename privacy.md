@@ -1,6 +1,6 @@
 # Seam Privacy Policy
 
-_Last updated: 7 November 2026_
+_Last updated: 11 November 2026_
 
 Seam is a wardrobe app that runs entirely on your phone. This page explains, in plain words, what the app does with your information.
 
@@ -10,9 +10,15 @@ Seam is a wardrobe app that runs entirely on your phone. This page explains, in 
 - **What you wore**: each outfit you log, by day, and any photo of you wearing it that you add.
 - **Trips**: trip names, types, destinations, dates and your packing lists.
 - **Your style**: a short summary of your style that Seam works out from your closet and the outfits you log.
+- **Your taste**: the outfits you mark "Not for me", the pieces you swap, and the looks you save, so the picks suit you better over time.
+- **Your plans**: the outfit you choose for tomorrow, and the outfit Seam showed you today.
 - **Your settings**: weather on or off, temperature unit, the morning reminder, and whether you have Seam Plus.
 
 All of this is stored **only on your device**. Seam has no accounts, no sign-in, and no servers of its own. We cannot see your closet, your photos, or anything else in the app.
+
+## Backups
+
+Seam keeps a safety copy of your closet inside the app, on your phone, so it can be put back if something goes wrong. If you back up your iPhone with iCloud or a computer, Seam's data and photos are part of that backup, like any other app's. That backup belongs to you and is handled by Apple; we cannot see it.
 
 ## Photos and camera
 
@@ -32,7 +38,7 @@ Open-Meteo receives these requests like any website receives a visit, including 
 
 ## Notifications
 
-If you switch on the morning reminder, Seam schedules a local notification on your phone. No push service is used.
+If you switch on the morning reminder, Seam schedules local notifications on your phone. They can name the outfit laid out for the day and the forecast. They are written on your phone; no push service is used.
 
 ## Purchases
 
@@ -47,7 +53,7 @@ Seam Plus is sold and billed by Apple through the App Store. Seam never sees you
 
 ## Deleting your data
 
-Delete the app from your phone. That removes your closet, photos, outfits and trips; nothing is kept anywhere else. You can also remove any single piece from its page.
+Delete the app from your phone. That removes your closet, photos, outfits, saved looks, plans and trips. Seam keeps nothing anywhere else; an iPhone backup you made earlier may still hold a copy until you delete that backup. You can also remove any single piece from its page.
 
 ## Children
 
