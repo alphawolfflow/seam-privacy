@@ -6,13 +6,13 @@ Seam is a wardrobe app that runs entirely on your phone. This page explains, in 
 
 ## What Seam stores
 
-- **Your closet**: the clothes you add (name, kind, colour, warmth, price, status such as "in laundry", how often and when you wore them) and their photos.
+- **Your closet**: the clothes you add (name, kind, colour, warmth, price, status such as "in laundry", which pieces you paired as a set, how often and when you wore them) and their photos.
 - **What you wore**: each outfit you log, by day, and any photo of you wearing it that you add.
 - **Trips**: trip names, types, destinations, dates and your packing lists.
 - **Your style**: a short summary of your style that Seam works out from your closet and the outfits you log.
 - **Your taste**: the outfits you mark "Not for me", the pieces you swap, and the looks you save, so the picks suit you better over time.
 - **Your plans**: the outfit you choose for tomorrow, and the outfit Seam showed you today.
-- **Your settings**: weather on or off, temperature unit, the morning reminder, and whether you have Seam Plus.
+- **Your settings**: weather on or off, temperature unit, your dress code at work, the morning reminder, and whether you have Seam Plus.
 
 All of this is stored **only on your device**. Seam has no accounts, no sign-in, and no servers of its own. We cannot see your closet, your photos, or anything else in the app.
 
